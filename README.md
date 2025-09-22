@@ -89,5 +89,3 @@ project-folder/
 ├── requirements.txt # Project dependencies
 └── README.md # Documentation (this file)
 ```
-
-# streamlit-fx-converter
