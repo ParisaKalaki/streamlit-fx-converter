@@ -34,9 +34,10 @@ It allows users to:
 
 ## How to Setup
 
-1. Open the terminal in the project directory
+1. **Clone the repository**
 
 ```bash
+   git clone streamlit-fx-converter
    cd dsp_at2_25969686
 ```
 
@@ -88,4 +89,5 @@ project-folder/
 ├── requirements.txt # Project dependencies
 └── README.md # Documentation (this file)
 ```
+
 # streamlit-fx-converter
